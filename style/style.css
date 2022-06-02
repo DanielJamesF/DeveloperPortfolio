@@ -15,7 +15,7 @@ html, body {
 .bgColor{
     transition: 10s;
    background: linear-gradient(
-       rgba(12, 12, 12, 0.999),
+       rgba(43, 43, 43, 0.999),
        rgba(26, 103, 147, 0.833)
    );
    border-bottom: 1px solid white;
